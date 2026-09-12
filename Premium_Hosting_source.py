@@ -47,7 +47,7 @@ def keep_alive():
 # --- Configuration ---
 TOKEN = '8882087008:AAGUvojr2Q4ciTtBG8aGkCekeLmyX06YX74' # Replace with your actual token
 OWNER_ID = 8297405460 # Replace with your Owner ID
-ADMIN_ID. 8735530895 = # Replace with your Admin ID (can be same as Owner)
+ADMIN_ID = 8735530895 # Replace with your Admin ID (can be same as Owner)
 YOUR_USERNAME = '@harisbhai13' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 'https://t.me/+R1tNC4BX8ygzZTc1' # Replace with your update channel link
 
